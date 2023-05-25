@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "deepan",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "doctor": true,
+      "id": 2
+    },
+    {
+      "username": "test",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "doctor": false,
+      "id": 3
+    }
+  ],
+  "appointments": [
+    {
+      "name": "John doe",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": "10",
+      "location": "Los Angeles",
+      "date": "2023-05-27T16:59",
+      "slot": "2",
+      "fee": "150",
+      "id": 1
+    }
+  ]
+}
